@@ -1,6 +1,6 @@
 # Tipps und Tricks zum *Remote*-Arbeiten für Studierende und Dozierende
 
-Auf dieser Seite sammeln wir nützliche Hinweise und Anleitungen, die beim Studium, der Forschungsarbeit und der Lehre aus dem *Home Office* helfen sollen.  
+In diesem Repository sammeln wir nützliche Hinweise und Anleitungen, die beim Studium, der Forschungsarbeit und der Lehre aus dem *Home Office* helfen sollen. Sie können die Inhalte auch [hier](https://uniregensburg.github.io/MI-Remote-Work/) als Webseite lesen.
 
 ## Inhalt
 
