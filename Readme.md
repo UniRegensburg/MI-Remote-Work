@@ -12,7 +12,7 @@ In diesem Repository sammeln wir nützliche Hinweise und Anleitungen, die beim S
 
 ## Mitarbeit
 
-Gerne können Sie eigene Hinweise erstellen oder die vorhandenen Inhalte ergänzen oder verbessern. Bitte schreiben dazu einfach kurz eine E-Mail mit Ihrem Github-Nutzernamen an `alexander.bazo@ur.de`. Wir fügen Sie dann als Autor zum Repository hinzu. Alternativ können Sie Vorschläge auch über den [*Issue Tracker*](https://github.com/alexanderbazo/MI-Remote-Work/issues) einreichen.
+Gerne können Sie eigene Hinweise erstellen oder die vorhandenen Inhalte ergänzen oder verbessern. Bitte schreiben dazu einfach kurz eine E-Mail mit Ihrem Github-Nutzernamen an `alexander.bazo@ur.de`. Wir fügen Sie dann als Autor zum Repository hinzu. Alternativ können Sie Vorschläge auch über den [*Issue Tracker*](https://github.com/UniRegensburg/MI-Remote-Work/issues) einreichen.
 
 ### Aufbau der Sammlung
 
