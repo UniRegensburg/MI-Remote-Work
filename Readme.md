@@ -7,10 +7,12 @@ Auf dieser Seite sammeln wir nützliche Hinweise und Anleitungen, die beim Studi
 ### Remote-Nutzerstudien
 
 - [Übersicht](./docs/Remote-Nutzerstudien)
+    - [Interviews](./docs/Remote-Nutzerstudien/Interviews)
+    - [Usability-Studien](./docs/Remote-Nutzerstudien/Usability-Studien)
 
 ## Mitarbeit
 
-Gerne können Sie eigene Hinweise erstellen oder die vorhandenen Inhalte ergänzen oder verbessern. Am besten erstellen Sie dazu einen [*Fork*](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) dieses Repositorys, ergänzen dort Ihre Änderungen und erstellen Sie in diesem Repository einen [*Pull Request*](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork). Alternativ können Sie Vorschläge auch über den [*Issue Tracker*](https://github.com/alexanderbazo/MI-Remote-Work/issues) einreichen.
+Gerne können Sie eigene Hinweise erstellen oder die vorhandenen Inhalte ergänzen oder verbessern. Bitte schreiben dazu einfach kurz eine E-Mail mit Ihrem Github-Nutzernamen an `alexander.bazo@ur.de`. Wir fügen Sie dann als Autor zum Repository hinzu. Alternativ können Sie Vorschläge auch über den [*Issue Tracker*](https://github.com/alexanderbazo/MI-Remote-Work/issues) einreichen.
 
 ### Aufbau der Sammlung
 
