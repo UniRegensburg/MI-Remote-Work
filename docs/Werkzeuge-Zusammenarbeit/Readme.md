@@ -13,7 +13,9 @@ Für eine kollaborative Arbeit an Projekten werden im Folgenden ein paar nützli
 
 #### [Github](https://github.com)
 
-Ein [Tutorial](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) in Textform zur gemeinsamen Nutzung von Github für Projekte. 
+- [Github in 20 Minuten](https://www.youtube.com/watch?v=nhNq2kIvi9s): Video zu den Themen Erstellen von Github-Repositories, Push- & Pulling, Klonen, Forken, Erstellen von Pull-Anfragen und Workflows für Open-Source-Beiträge.
+- [Tutorial](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67) in Textform zur gemeinsamen Nutzung von Github für Projekte. 
+- [Video Tutorial](https://www.youtube.com/watch?v=MnUd31TvBoU) zu kollaborativem Arbeiten mit Github
 
 #### [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/) 
 - für Visual Studio Code
